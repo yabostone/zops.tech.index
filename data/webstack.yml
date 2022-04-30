@@ -1,0 +1,48 @@
+---
+
+- taxonomy: 关于我
+  icon: fa-star
+  links: 
+    - title: 简历
+      logo: assets/images/logos/dribbble.png
+      url: https://dribbble.com/
+      description: 个人简历
+    - title: 博客
+      logo: assets/images/logos/behance.png
+      url: https://blog.fengidea.com/
+      description: 个人博客
+    - title: 微信公众号
+      qrcode: assets/images/webstack-hugo-qrcode.png
+      logo: assets/images/favicon.png
+      description: 二维码演示，新增二维码，手机扫一扫
+
+
+- taxonomy: 学习教程
+  icon: fa-pencil
+  list: 
+    - term: 云原生
+      links:
+        - title: K8s个人总结
+          url: https://www.zops.tech/kubernetes/doc
+          logo: assets/images/logos/designguidelines.png
+          description: K8s个人总结
+
+
+      
+    - term: JAVA
+      links:
+        - title: SpringCloud
+          url: https://www.zops.tech/springcloud/
+          logo: assets/images/logos/PhotoshopLady.png
+          description: SpringCloud 教程
+        - title: SpringCloud Alibaba
+          url: https://www.zops.tech/springcloudalibaba/
+          logo: assets/images/logos/doyoudo.png
+          description: SpringCloudAlibaba 教程
+        - title: SpringMVC
+          url: http://www.zops.tech/SpringMVC/
+          logo: assets/images/logos/web_ui_tutorial.png
+          description: SpringMVC
+
+
+

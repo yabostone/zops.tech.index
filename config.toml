@@ -1,0 +1,17 @@
+baseURL = "https://www.zops.tech"
+languageCode = "zh-CN"
+title = "彭峰的个人博客"
+theme = "webstack-hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+copyright = "pengfeng"
+[params]
+  author = "pengfeng"
+  description = "about CNCF"
+[params.search]
+  enable = true
+[params.darkmode]
+  enable = false
+[params.Copyright]
+    
